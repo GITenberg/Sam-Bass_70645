@@ -1,0 +1,44 @@
+_repo: Sam-Bass_70645
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Allison, W. M. (William Merle)
+    aliases:
+    - Allison, William Merle
+    - W. M. A.
+    - A., W. M.
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '55823'
+    url: http://www.gutenberg.org/2009/agents/55823
+creator:
+  author:
+    agent_name: Cunningham, Eugene
+    alias: Carder, Leigh
+    birthdate: 1896
+    deathdate: 1957
+    gutenberg_agent_id: '55843'
+    url: http://www.gutenberg.org/2009/agents/55843
+description: ''
+gutenberg_issued: '2023-04-26'
+identifiers:
+  gutenberg: '70645'
+language: en
+pgterms:marc904: https://archive.org/details/The_Frontier_v04n02_1926-05.Doubleday_Page_Co._Darwination-DPP_
+pgterms:marc905: 20230422151707cunningham
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aGarden City, NY :$bDoubleday, Page & Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Western stories'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Bass, Sam, 1851-1878 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sam Bass
+url: http://www.gutenberg.org/ebooks/70645
